@@ -1,0 +1,14 @@
+C:\Users\Isabela\jogodaforca-console-dotnet\obj\Debug\net8.0\jogodaforca-console-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabela\jogodaforca-console-dotnet\obj\Debug\net8.0\jogodaforca-console-dotnet.AssemblyInfoInputs.cache
+C:\Users\Isabela\jogodaforca-console-dotnet\obj\Debug\net8.0\jogodaforca-console-dotnet.AssemblyInfo.cs
+C:\Users\Isabela\jogodaforca-console-dotnet\obj\Debug\net8.0\jogodaforca-console-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Isabela\jogodaforca-console-dotnet\obj\Debug\net8.0\jogodaforca-console-dotnet.dll
+C:\Users\Isabela\jogodaforca-console-dotnet\obj\Debug\net8.0\refint\jogodaforca-console-dotnet.dll
+C:\Users\Isabela\jogodaforca-console-dotnet\obj\Debug\net8.0\jogodaforca-console-dotnet.pdb
+c:\Users\Isabela\jogodaforca-console-dotnet\bin\Debug\net8.0\jogodaforca-console-dotnet.exe
+C:\Users\Isabela\jogodaforca-console-dotnet\bin\Debug\net8.0\jogodaforca-console-dotnet.deps.json
+C:\Users\Isabela\jogodaforca-console-dotnet\bin\Debug\net8.0\jogodaforca-console-dotnet.runtimeconfig.json
+c:\Users\Isabela\jogodaforca-console-dotnet\bin\Debug\net8.0\jogodaforca-console-dotnet.dll
+c:\Users\Isabela\jogodaforca-console-dotnet\bin\Debug\net8.0\jogodaforca-console-dotnet.pdb
+C:\Users\Isabela\jogodaforca-console-dotnet\obj\Debug\net8.0\jogodaforca-console-dotnet.genruntimeconfig.cache
+C:\Users\Isabela\jogodaforca-console-dotnet\obj\Debug\net8.0\ref\jogodaforca-console-dotnet.dll
